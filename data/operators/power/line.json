@@ -7132,7 +7132,8 @@
       "matchNames": [
         "enso",
         "enso netz",
-        "sachsennetze"
+        "sachsennetze",
+        "sachsennetze hs.hd"
       ],
       "tags": {
         "operator": "SachsenEnergie",

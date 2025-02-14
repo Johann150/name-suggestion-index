@@ -2365,13 +2365,16 @@
       }
     },
     {
-      "displayName": "ENSO Energie Sachsen Ost AG",
+      "displayName": "SachsenEnergie",
       "id": "ensoenergiesachsenostag-1299a8",
       "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "ENSO Energie Sachsen Ost AG"
+      ]
       "tags": {
         "amenity": "charging_station",
-        "operator": "ENSO Energie Sachsen Ost AG",
-        "operator:wikidata": "Q1275368"
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900"
       }
     },
     {
