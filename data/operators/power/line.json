@@ -3314,22 +3314,6 @@
       }
     },
     {
-      "displayName": "enviaM",
-      "id": "enviam-dce62c",
-      "locationSet": {
-        "include": [
-          "de-bb.geojson",
-          "de-sn.geojson"
-        ]
-      },
-      "matchNames": ["envia"],
-      "tags": {
-        "operator": "enviaM",
-        "operator:wikidata": "Q1345871",
-        "power": "line"
-      }
-    },
-    {
       "displayName": "EPB",
       "id": "epb-5d1a79",
       "locationSet": {
@@ -5579,7 +5563,10 @@
       },
       "matchNames": [
         "mitnetz",
-        "mitteldeutsche netzgesellschaft strom mbh"
+        "mitteldeutsche netzgesellschaft strom mbh",
+        "envia",
+        "enviam",
+        "envia netz gmbh"
       ],
       "tags": {
         "operator": "Mitnetz Strom",
