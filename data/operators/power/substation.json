@@ -8506,17 +8506,18 @@
       }
     },
     {
-      "displayName": "Schleswig-Holstein Netz AG",
+      "displayName": "Schleswig-Holstein Netz",
       "id": "schleswigholsteinnetzag-5fcfdc",
       "locationSet": {
         "include": ["de-sh.geojson"]
       },
       "matchNames": [
-        "schleswig-holstein netz",
+        "schleswig-holstein netz ag",
+        "schleswig-holstein netz gmbh",
         "sh netz ag"
       ],
       "tags": {
-        "operator": "Schleswig-Holstein Netz AG",
+        "operator": "Schleswig-Holstein Netz",
         "operator:wikidata": "Q2239261",
         "power": "substation"
       }
