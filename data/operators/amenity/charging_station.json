@@ -2370,7 +2370,7 @@
       "locationSet": {"include": ["de"]},
       "matchNames": [
         "ENSO Energie Sachsen Ost AG"
-      ]
+      ],
       "tags": {
         "amenity": "charging_station",
         "operator": "SachsenEnergie",
