@@ -2365,19 +2365,6 @@
       }
     },
     {
-      "displayName": "SachsenEnergie",
-      "id": "ensoenergiesachsenostag-1299a8",
-      "locationSet": {"include": ["de"]},
-      "matchNames": [
-        "ENSO Energie Sachsen Ost AG"
-      ],
-      "tags": {
-        "amenity": "charging_station",
-        "operator": "SachsenEnergie",
-        "operator:wikidata": "Q104758900"
-      }
-    },
-    {
       "displayName": "Entega",
       "id": "entega-1299a8",
       "locationSet": {"include": ["de"]},
@@ -5014,7 +5001,7 @@
       "locationSet": {
         "include": ["de-sn.geojson"]
       },
-      "matchNames": ["sachsenenergie ag"],
+      "matchNames": ["ENSO Energie Sachsen Ost AG","sachsenenergie ag"],
       "tags": {
         "amenity": "charging_station",
         "operator": "SachsenEnergie",
